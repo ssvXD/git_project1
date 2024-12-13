@@ -1,1 +1,3 @@
 print("Привет")
+
+print ("huhu")
